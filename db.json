@@ -1,14 +1,49 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "faqs": [
+    {
+      "id": 1,
+      "questionGroup": "Community",
+      "question": "Will my profile be visible to the community?",
+      "answer": "This is a work space and not an opportunity to compare profiles or collect friends online. Your privacy is paramount and your profile details are only visible when you post an ad or respond to one."
+    },
+    {
+      "id": 2,
+      "questionGroup": "Community",
+      "question": "Will my profile be visible to the community?",
+      "answer": "This is a work space and not an opportunity to compare profiles or collect friends online. Your privacy is paramount and your profile details are only visible when you post an ad or respond to one."
+    },
+    {
+      "id": 3,
+      "questionGroup": "Community",
+      "question": "Will my profile be visible to the community?",
+      "answer": "This is a work space and not an opportunity to compare profiles or collect friends online. Your privacy is paramount and your profile details are only visible when you post an ad or respond to one."
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "terms&conditions": [
+    {
+      "id": 1,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque malesuada condimentum maximus. Mauris eros sapien, iaculis aclectus nec, tempus auctor urna. Praesent elementum pretium"
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "privacyPolicy": [
+    {
+      "id": 1,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque malesuada condimentum maximus. Mauris eros sapien, iaculis aclectus nec, tempus auctor urna. Praesent elementum pretium"
+    }
+  ],
+  "cookiesPolicy": [
+    {
+      "id": 1,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque malesuada condimentum maximus. Mauris eros sapien, iaculis aclectus nec, tempus auctor urna. Praesent elementum pretium"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "ActorName": "Marko Markovic",
+      "ActorPicture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
+      "comment": "test test test",
+      "Movies": ["test1", "test2", "test3"]
+    }
+  ]
 }
