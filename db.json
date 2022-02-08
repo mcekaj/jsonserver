@@ -52,19 +52,19 @@
   "terms&conditions": [
     {
       "id": 1,
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque malesuada condimentum maximus. Mauris eros sapien, iaculis aclectus nec, tempus auctor urna. Praesent elementum pretium"
+      "documentHTML": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque malesuada condimentum maximus. Mauris eros sapien, iaculis aclectus nec, tempus auctor urna. Praesent elementum pretium"
     }
   ],
   "privacyPolicy": [
     {
       "id": 1,
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque malesuada condimentum maximus. Mauris eros sapien, iaculis aclectus nec, tempus auctor urna. Praesent elementum pretium"
+      "documentHTML": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque malesuada condimentum maximus. Mauris eros sapien, iaculis aclectus nec, tempus auctor urna. Praesent elementum pretium"
     }
   ],
   "cookiesPolicy": [
     {
       "id": 1,
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque malesuada condimentum maximus. Mauris eros sapien, iaculis aclectus nec, tempus auctor urna. Praesent elementum pretium"
+      "documentHTML": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque malesuada condimentum maximus. Mauris eros sapien, iaculis aclectus nec, tempus auctor urna. Praesent elementum pretium"
     }
   ],
   "testimonials": [
