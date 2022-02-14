@@ -73,14 +73,14 @@
       "ActorName": "Juliet Cowan",
       "ActorPicture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
       "comment": "“The industry in London has been waiting for somebody to do something like this for a while now”",
-      "Movies": ["Chernobyl, ", "Ripper Street, ", "Mr Selfridge"]
+      "Movies": ["Chernobyl", "Ripper Street", "Mr Selfridge"]
     },
     {
       "id": 2,
       "ActorName": "Ross Armstrong",
       "ActorPicture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
       "comment": "“Help Me Tape gives a sense of community back to an increasingly fractured workforce.”",
-      "Movies": ["Chernobyl, ", "Ripper Street, ", "Mr Selfridge"]
+      "Movies": ["Chernobyl", "Ripper Street", "Mr Selfridge"]
     }
   ]
 }
