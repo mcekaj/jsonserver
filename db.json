@@ -51,6 +51,7 @@
   ],
   "terms&conditions": [
     {
+      "id": 1,
       "documentHTML": "<div><h1>Title</h1><p>test paragraph</p></div>"
     }
   ],
