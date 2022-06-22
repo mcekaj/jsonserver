@@ -15,10 +15,28 @@
     {
       "id": 4,
       "name": "Oracle"
+    }
+  ],
+  "postgres": [
+    {
+      "id": 1,
+      "name": "Postgres DB 1"
+    },
+    {
+      "id": 2,
+      "name": "Postgres DB 2"
+    },
+    {
+      "id": 3,
+      "name": "Postgres DB 3"
+    },
+    {
+      "id": 4,
+      "name": "Postgres DB 4"
     },
     {
       "id": 5,
-      "name": "SQL Server"
+      "name": "Postgres DB 5"
     }
   ],
   "mongo": [
@@ -39,6 +57,28 @@
     {
       "id": 2,
       "name": "Producers DB"
+    }
+  ],
+  "oracle": [
+    {
+      "id": 1,
+      "name": "Oracle DB 1"
+    },
+    {
+      "id": 2,
+      "name": "Oracle DB 2"
+    },
+    {
+      "id": 3,
+      "name": "Oracle DB 3"
+    },
+    {
+      "id": 4,
+      "name": "Oracle DB 4"
+    },
+    {
+      "id": 5,
+      "name": "Oracle DB 5"
     }
   ]
 }
