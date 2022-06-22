@@ -82,5 +82,39 @@
       "comment": "“Help Me Tape gives a sense of community back to an increasingly fractured workforce.”",
       "movies": ["Chernobyl", "Ripper Street", "Mr Selfridge"]
     }
+  ],
+  "dbProviders": [
+    {
+      "id": 1,
+      "name": "Postgres"
+    },
+    {
+      "id": 2,
+      "name": "MySQL"
+    },
+    {
+      "id": 3,
+      "name": "MongoDB"
+    },
+    {
+      "id": 4,
+      "name": "Oracle"
+    },
+    {
+      "id": 5,
+      "name": "SQL Server"
+    },
+    {
+      "id": 6,
+      "name": "Firebase"
+    },
+    {
+      "id": 7,
+      "name": "Firestore"
+    },
+    {
+      "id": 8,
+      "name": "Firebase"
+    }
   ]
 }
