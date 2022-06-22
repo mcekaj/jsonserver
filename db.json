@@ -39,7 +39,7 @@
       "name": "Postgres DB 5"
     }
   ],
-  "mongo": [
+  "mongodb": [
     {
       "id": 1,
       "name": "Movies DB"
