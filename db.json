@@ -103,18 +103,6 @@
     {
       "id": 5,
       "name": "SQL Server"
-    },
-    {
-      "id": 6,
-      "name": "Firebase"
-    },
-    {
-      "id": 7,
-      "name": "Firestore"
-    },
-    {
-      "id": 8,
-      "name": "Firebase"
     }
   ]
 }
