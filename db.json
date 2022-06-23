@@ -59,26 +59,12 @@
       "name": "ProducersDB"
     }
   ],
-  "oracle": [
+  "users": [
     {
       "id": 1,
-      "name": "OracleDB1"
-    },
-    {
-      "id": 2,
-      "name": "OracleDB2"
-    },
-    {
-      "id": 3,
-      "name": "OracleDB3"
-    },
-    {
-      "id": 4,
-      "name": "OracleDB4"
-    },
-    {
-      "id": 5,
-      "name": "OracleDB5"
+      "username": "John",
+      "email": "john@john.com",
+      "password": "john12345"
     }
   ]
 }
