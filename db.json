@@ -20,65 +20,65 @@
   "postgres": [
     {
       "id": 1,
-      "name": "Postgres DB 1"
+      "name": "PostgresDB1"
     },
     {
       "id": 2,
-      "name": "Postgres DB 2"
+      "name": "PostgresDB2"
     },
     {
       "id": 3,
-      "name": "Postgres DB 3"
+      "name": "PostgresDB3"
     },
     {
       "id": 4,
-      "name": "Postgres DB 4"
+      "name": "PostgresDB4"
     },
     {
       "id": 5,
-      "name": "Postgres DB 5"
+      "name": "PostgresDB5"
     }
   ],
   "mongodb": [
     {
       "id": 1,
-      "name": "Movies DB"
+      "name": "MoviesDB"
     },
     {
       "id": 2,
-      "name": "Users DB"
+      "name": "UsersDB"
     }
   ],
   "mySql": [
     {
       "id": 1,
-      "name": "Actors DB"
+      "name": "ActorsDB"
     },
     {
       "id": 2,
-      "name": "Producers DB"
+      "name": "ProducersDB"
     }
   ],
   "oracle": [
     {
       "id": 1,
-      "name": "Oracle DB 1"
+      "name": "OracleDB1"
     },
     {
       "id": 2,
-      "name": "Oracle DB 2"
+      "name": "OracleDB2"
     },
     {
       "id": 3,
-      "name": "Oracle DB 3"
+      "name": "OracleDB3"
     },
     {
       "id": 4,
-      "name": "Oracle DB 4"
+      "name": "OracleDB4"
     },
     {
       "id": 5,
-      "name": "Oracle DB 5"
+      "name": "OracleDB5"
     }
   ]
 }
