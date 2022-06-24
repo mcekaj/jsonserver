@@ -13,7 +13,7 @@
       "name": "MsSQL"
     }
   ],
-  "postgres": [
+  "PostgreSQL": [
     {
       "id": 1,
       "name": "PostgresDB1"
@@ -35,7 +35,7 @@
       "name": "PostgresDB5"
     }
   ],
-  "mongodb": [
+  "MySQL": [
     {
       "id": 1,
       "name": "MoviesDB"
@@ -45,7 +45,7 @@
       "name": "UsersDB"
     }
   ],
-  "mySql": [
+  "MsSQL": [
     {
       "id": 1,
       "name": "ActorsDB"
